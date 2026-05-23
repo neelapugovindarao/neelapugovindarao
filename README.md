@@ -9,11 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
-  &nbsp;
-  <b>Welcome to my GitHub profile!</b>
-  &nbsp;
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="coding animation" />
 </p>
 
 ---
@@ -80,7 +76,7 @@ I'm **Neelapu Govindarao**, a passionate B.Tech student on a mission to become a
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neelapugovindarao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelapugovindarao&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=neelapugovindarao&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -109,6 +105,10 @@ I'm **Neelapu Govindarao**, a passionate B.Tech student on a mission to become a
   <a href="https://leetcode.com/u/Ngovindarao/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="footer animation" />
 </p>
 
 <p align="center">
