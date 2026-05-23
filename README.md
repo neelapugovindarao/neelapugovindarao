@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=neelapugovindarao&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<!-- SECTION A: ANIMATED HEADER -->
+<!-- SECTION A: HEADER -->
 <h1 align="center">Hi 👋, I'm Neelapu Govindarao</h1>
 <h3 align="center">🚀 B.Tech Student | Aspiring Software Developer | Fresher actively learning & building skills</h3>
 
@@ -73,13 +73,13 @@ I'm **Neelapu Govindarao**, a passionate B.Tech student on a mission to become a
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelapugovindarao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neelapugovindarao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats" />
   &nbsp;
   <img src="https://streak-stats.demolab.com?user=neelapugovindarao&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelapugovindarao&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelapugovindarao&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" alt="Top Languages" />
 </p>
 
 ---
