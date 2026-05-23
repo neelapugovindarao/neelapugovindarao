@@ -4,9 +4,8 @@
 </p>
 
 <!-- SECTION A: ANIMATED HEADER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Neelapu+Govindarao+👋;B.Tech+Student+%7C+Aspiring+Dev+🚀;Building+One+Line+at+a+Time+💻;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi 👋, I'm Neelapu Govindarao</h1>
+<h3 align="center">🚀 B.Tech Student | Aspiring Software Developer | Fresher actively learning & building skills</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="coding animation" />
