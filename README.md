@@ -1,76 +1,120 @@
+<!-- SECTION G: VISITOR COUNTER -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neelapugovindarao&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-I want you to transform my GitHub profile README.
-Do NOT ask me any questions. Just execute everything.
+<!-- SECTION A: ANIMATED HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Neelapu+Govindarao+👋;B.Tech+Student+%7C+Aspiring+Dev+🚀;Building+One+Line+at+a+Time+💻;Always+Learning%2C+Always+Growing+🌱" alt="Typing SVG" />
+</p>
 
-MY DETAILS:
-- Name: [Neelapu Govindarao]
-- Role: [B.Tech Student | Aspiring Software Developer 🚀]
-- Experience: [Fresher | Actively Learning & Building Skills 🚀] 
-- Tech Stack: [Frontend: HTML, CSS  Languages: C, Python  Tools: Git, GitHub, VS Code]
-- LinkedIn: [https://linkedin.com/in/neelapugovindarao8919357258]
-- LeetCode: [https://leetcode.com/u/Ngovindarao/]
-- Portfolio: [Coming Soon 🚀]
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+  &nbsp;
+  <b>Welcome to my GitHub profile!</b>
+  &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" />
+</p>
 
-INSTRUCTIONS - DO ALL OF THIS AUTOMATICALLY:
+---
 
-1. Go to my GitHub profile repository
-   (github.com/[neelapugovindarao]/[neelapugovindarao])
-   Open the README.md file
-   Click Edit (pencil icon)
+<!-- SECTION B: ABOUT ME -->
+## 🙋‍♂️ About Me
 
-2. Delete ALL existing content
+> *"Code is not just syntax — it's a superpower."*
 
-3. Create and paste this complete README:
+I'm **Neelapu Govindarao**, a passionate B.Tech student on a mission to become a skilled software developer. I believe in learning by doing and building real projects that matter.
 
----------------------------------------
+- 🎓 **B.Tech Student** | Aspiring Software Developer
+- 🌱 **Currently Learning** — Python, Data Structures & Algorithms, Web Development
+- 💡 **Love to** — Solve problems, explore new tech, and write clean code
+- 🏆 **Active on LeetCode** — Sharpening my coding skills daily
+- 🤝 **Open to** — Collaborations, internships & exciting opportunities
+- ⚡ **Fun Fact** — I debug code better with coffee ☕
 
-SECTION A: ANIMATED HEADER
-- Add a wave GIF greeting
-- Add animated typing effect using readme-typing-svg
-- Show my role and a catchy tagline
+---
 
-SECTION B: ABOUT ME
-- Write a short confident intro
-- Add 3–4 fun bullet points about me
-- Use relevant emojis
+<!-- SECTION C: TECH STACK -->
+## 🛠️ Tech Stack
 
-SECTION C: TECH STACK
-- Add shields.io badges for ALL my technologies
-- Use colored badges with logos
-- Organize by: Frontend, Backend, Tools
+**Frontend:**
 
-SECTION D: SOCIAL MEDIA LINKS
-- LinkedIn badge with link
-- Leetcode badge with link
-- All badges must be clickable links
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-SECTION E: GITHUB STATS
-- GitHub Stats Card (anuraghazra/github-readme-stats)
-- GitHub Streak Stats (github-readme-streak-stats)
-- Top Languages Card
-- Theme: tokyonight or radical
+**Languages:**
 
-SECTION F: GITHUB TROPHIES
-- GitHub Profile Trophy (ryo-ma/github-profile-trophy)
-- Theme: darkhub or onedark
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-SECTION G: VISITOR COUNTER
-- Add komarev profile views counter badge at top
+**Tools & Platforms:**
 
-SECTION H: FOOTER
-- "Let's Connect" section with all social links
-- Professional closing line
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----------------------------------------
+---
 
-4. After pasting all content, click Commit changes
-   to save automatically
+<!-- SECTION D: SOCIAL MEDIA LINKS -->
+## 🌐 Connect With Me
 
-RULES:
-- Do NOT ask any questions. Just do it.
-- Do NOT stop in the middle. Complete everything.
-- Use my actual GitHub username in all URLs.
-- Make sure all badge URLs are correct.
-- Make it modern, clean, and professional.
+<p align="left">
+  <a href="https://linkedin.com/in/neelapugovindarao8919357258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Ngovindarao/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  &nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FF5733?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-## <<< END OF PROMPT
+---
+
+<!-- SECTION E: GITHUB STATS -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelapugovindarao&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelapugovindarao&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelapugovindarao&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+</p>
+
+---
+
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=neelapugovindarao&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- SECTION H: FOOTER -->
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/neelapugovindarao8919357258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Ngovindarao/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ "Every expert was once a beginner. Keep building, keep learning." ✨</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! Drop a ⭐ if you like what you see 😊</b>
+</p>
