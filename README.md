@@ -9,7 +9,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-<img src="https://img.shields.io/badge/First%20Year-Student-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/Second%20Year-Student-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/India-Developer-312E81?style=for-the-badge&logo=google-maps&logoColor=white"/>
 
 <br/><br/>
