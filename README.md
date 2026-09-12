@@ -189,13 +189,22 @@ This project demonstrates practical understanding of data organization, programm
 </div>
 
 ## Contribution Snake
+## Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+          srcset="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+          srcset="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake.svg">
+
+  <img src="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake.svg"
+       alt="GitHub Contribution Snake">
+</picture>
 
 </div>
-
 ## Current Focus
 
 **Learning:** Data Structures & Algorithms, Python, Java, artificial intelligence, machine-learning fundamentals, and full-stack development.
