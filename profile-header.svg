@@ -1,41 +1,37 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300"
      xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
-  <rect width="1200" height="300" rx="18" fill="#0D1117"/>
-
-  <!-- Blue gradient -->
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#17102B"/>
-      <stop offset="50%" stop-color="#172B45"/>
-      <stop offset="100%" stop-color="#0B6B72"/>
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="55%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#FACC15"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-
-  <!-- Your image -->
-  <image
-    href="assets/profile-image.png"
-    x="850"
-    y="45"
-    width="200"
-    height="200"
-    preserveAspectRatio="xMidYMid slice"
+  <rect
+    width="1200"
+    height="300"
+    rx="18"
+    fill="url(#bg)"
   />
 
-  <!-- Text -->
-  <text x="80" y="130"
-        fill="white"
-        font-size="58"
-        font-weight="bold">
+  <text
+    x="80"
+    y="130"
+    fill="#FFFFFF"
+    font-family="Georgia, serif"
+    font-size="58"
+    font-weight="bold">
     Govinda Rao
   </text>
 
-  <text x="85" y="180"
-        fill="#D8E1F0"
-        font-size="28">
+  <text
+    x="85"
+    y="180"
+    fill="#FFFFFF"
+    font-family="Georgia, serif"
+    font-size="28">
     Aspiring Data Analyst / B.Tech CSE Student
   </text>
 
