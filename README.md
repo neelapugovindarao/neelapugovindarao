@@ -27,7 +27,7 @@
 
 </div>
 
-## About Me
+About Me
 
 I am a B.Tech Computer Science and Engineering student focused on building a strong foundation in software engineering, problem solving, and emerging AI technologies.
 
@@ -35,135 +35,65 @@ My current learning path combines programming, data structures and algorithms, w
 
 I am particularly interested in software engineering, AI/ML, full-stack development, and product-oriented engineering. My goal is to develop production-ready technical skills and contribute to meaningful software products.
 
-## Open To
+Open To
 
-- Software engineering opportunities
-- AI / ML projects
-- Full-stack development
-- Open-source contributions
-- Hackathons and technical communities
-- Collaborative student projects
+Software engineering opportunities
 
-## Tech Stack
+AI / ML projects
 
-### Languages
+Full-stack development
+
+Open-source contributions
+
+Hackathons and technical communities
+
+Collaborative student projects
+
+Tech Stack
+
+Languages
 
 <img src="https://skillicons.dev/icons?i=c,python,java,js" alt="C, Python, Java, and JavaScript" />
 
-### Frontend
+Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS, and JavaScript" />
 
-### Backend & Databases
+Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=python,mysql" alt="Python and MySQL" />
 
-### Cloud, DevOps & Tooling
+Cloud, DevOps & Tooling
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, and VS Code" />
 
-### Additional Tools
+Additional Tools
 
 <img src="https://img.shields.io/badge/MS%20Office-Professional%20Tools-2563EB?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Microsoft Office" />
 
-## AI / ML Expertise
+## 🤖 AI & Machine Learning
 
-| Domain | Proficiency | Details |
-| --- | --- | --- |
-| AI Fundamentals | Beginner | Understanding core AI concepts and applications |
-| Agentic AI | Beginner | Exploring AI agents and agentic AI concepts |
-| Python for AI | Beginner | Building programming foundations for AI development |
-| Problem Solving | Beginner–Intermediate | Practicing algorithmic and logical problem solving |
-| Machine Learning | Learning | Developing foundational knowledge |
-| AI Tools & Applications | Learning | Exploring practical AI-based solutions |
+- Artificial Intelligence & Agentic AI
+- Python for AI
+- Machine Learning Fundamentals
+- Problem Solving
 
-## Featured Projects
+## 🏆 Achievements & Certifications
 
-<details>
-<summary><strong>🏥 Hospital Management System</strong></summary>
+- 🚀 **Launch Pad Hack Fest 2026** — 8-hour Inter-Collegiate Hackathon
+- 🤖 **AI Agents & Agentic AI for All** — Completed
+- 🧠 **AI Fundamentals Assessment** — CODECRAFT Learning Hub
 
-<br />
+## 📊 GitHub Analytics
 
-A software project designed to organize and manage hospital-related information and operations through a structured programming approach.
+<div align="center">
 
-| Category | Details |
-| --- | --- |
-| Stack | Python / Database Concepts |
-| Scale | Academic Project |
-| Performance | Structured data management |
-| Security | Input and data handling considerations |
-| Impact | Simplifies management of hospital information |
+<img src="https://github-readme-stats.vercel.app/api?username=neelapugovindarao&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FACC15&icon_color=EC4899&text_color=FFFFFF&count_private=true&include_all_commits=true" height="180" alt="GitHub Statistics" />
 
-The project demonstrates practical application of programming, data organization, and database-oriented thinking in a real-world domain.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelapugovindarao&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=FFFFFF&langs_count=8" height="180" alt="Top Languages" />
 
-</details>
-
-<details>
-<summary><strong>🗄️ PyDB</strong></summary>
-
-<br />
-
-A Python-based database-oriented project demonstrating programming logic and structured data handling.
-
-| Category | Details |
-| --- | --- |
-| Stack | Python |
-| Scale | Academic / Learning Project |
-| Performance | Lightweight data operations |
-| Security | Structured input handling |
-| Impact | Strengthens Python and database concepts |
-
-The project reflects hands-on practice with Python programming and database concepts while building a foundation for larger software systems.
-
-</details>
-
-<details>
-<summary><strong>🎓 Student Database Management</strong></summary>
-
-<br />
-
-A student-oriented database project focused on storing, organizing, and managing student information.
-
-| Category | Details |
-| --- | --- |
-| Stack | Python / Database Concepts |
-| Scale | Academic Project |
-| Performance | Efficient structured data handling |
-| Security | Basic data validation |
-| Impact | Demonstrates database management concepts |
-
-This project demonstrates practical understanding of data organization, programming logic, and database management workflows.
-
-</details>
-
-## Achievements
-
-| Recognition | Details |
-| --- | --- |
-| 🚀 Launch Pad Hack Fest 2026 | Participated in the B.Tech First Year Edition, an 8-hour inter-collegiate hackathon |
-| 🤖 AI Fundamentals Assessment | Completed an AI Fundamentals assessment conducted by CODECRAFT LEARNING HUB PVT LTD |
-
-## Certifications
-
-### AI & Technology
-
-<img src="https://img.shields.io/badge/AI%20Agents%20%26%20Agentic%20AI%20for%20All-Completed-EC4899?style=for-the-badge&logo=ai&logoColor=white" alt="AI Agents and Agentic AI for All: Completed" />
-
-**AI Agents and Agentic AI for All** — successfully completed on August 25, 2026.
-
-### AI Fundamentals
-
-<img src="https://img.shields.io/badge/AI%20Fundamentals-Assessment-2563EB?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Fundamentals Assessment" />
-
-**AI Fundamentals Assessment** — conducted by CODECRAFT LEARNING HUB PVT LTD.
-
-### Hackathon
-
-<img src="https://img.shields.io/badge/Launch%20Pad%20Hack%20Fest-2026-FACC15?style=for-the-badge&logo=github&logoColor=111827" alt="Launch Pad Hack Fest 2026" />
-
-**Launch Pad Hack Fest 2026 – B.Tech First Year Edition** — participated in an 8-hour inter-collegiate hackathon.
-
-## GitHub Analytics
+</div>
+GitHub Analytics
 
 <div align="center">
 
@@ -176,7 +106,7 @@ This project demonstrates practical understanding of data organization, programm
 
 </div>
 
-## GitHub Trophies
+GitHub Trophies
 
 <div align="center">
 
@@ -184,7 +114,7 @@ This project demonstrates practical understanding of data organization, programm
 
 </div>
 
-## Contribution Activity
+Contribution Activity
 
 <div align="center">
 
@@ -192,8 +122,9 @@ This project demonstrates practical understanding of data organization, programm
 
 </div>
 
-## Contribution Snake
-## Contribution Snake
+Contribution Snake
+
+Contribution Snake
 
 <div align="center">
 
@@ -201,23 +132,23 @@ This project demonstrates practical understanding of data organization, programm
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake.svg">
+<source media="(prefers-color-scheme: light)"
+       srcset="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake.svg">
 
-  <img src="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake.svg"
-       alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/neelapugovindarao/neelapugovindarao/output/github-snake.svg"
+    alt="GitHub Contribution Snake">
 </picture>
 
 </div>
 ## Current Focus
 
-**Learning:** Data Structures & Algorithms, Python, Java, artificial intelligence, machine-learning fundamentals, and full-stack development.
+Learning: Data Structures & Algorithms, Python, Java, artificial intelligence, machine-learning fundamentals, and full-stack development.
 
-**Building:** Python projects, database projects, web-development projects, and AI-based projects.
+Building: Python projects, database projects, web-development projects, and AI-based projects.
 
-**Exploring:** Agentic AI, AI/ML applications, software engineering, open source, and hackathons.
+Exploring: Agentic AI, AI/ML applications, software engineering, open source, and hackathons.
 
-## Connect
+Connect
 
 <div align="center">
 
@@ -228,7 +159,7 @@ This project demonstrates practical understanding of data organization, programm
 
 <br /><br />
 
-> “Learn continuously. Build intentionally. Engineer impact.”
+“Learn continuously. Build intentionally. Engineer impact.”
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:EC4899,100:FACC15&height=120&section=footer" width="100%" alt="Footer" />
 
