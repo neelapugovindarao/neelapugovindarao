@@ -1,7 +1,11 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:EC4899,100:FACC15&height=220&section=header&text=NEELAPU%20GOVINDA%20RAO&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20%26%20AI%20Enthusiast&descAlignY=58&descSize=17" width="100%" alt="Neelapu Govinda Rao" />
-
+<p align="center">
+  <img 
+    src="./profile-header.svg"
+    alt="Govinda Rao - Aspiring Data Analyst / B.Tech CSE Student"
+    width="100%"
+  />
+</p>
 <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=750&lines=Building+Software+with+Purpose;Exploring+Artificial+Intelligence;Learning+Data+Structures+%26+Algorithms;Developing+Full-Stack+Skills;Always+Learning%2C+Building+%26+Improving" alt="Typing SVG" /></a>
 
 <br />
