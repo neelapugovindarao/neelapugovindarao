@@ -1,7 +1,7 @@
 <div align="center">
 <p align="center">
-  <img 
-    src="./profile-header.svg"
+  <img
+    src="./profile-header.svg?v=2"
     alt="Govinda Rao - Aspiring Data Analyst / B.Tech CSE Student"
     width="100%"
   />
